@@ -1,0 +1,33 @@
+body{
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.logo-img{
+    width: 300px;
+}
+.image-card{
+    background-color: #F1F1F1;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.custom-bg-color{
+    background-color: #FFFBF0;
+}
+
+.all-button{
+    background-color: #90AA29;
+    border: 0;
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+
+.penguine-card-border{
+    border: 0;
+}
+
+.all-card-footer{
+    border: 0;
+    background-color: #fff;
+}
+
