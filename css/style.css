@@ -31,3 +31,14 @@ body{
     background-color: #fff;
 }
 
+.special-box{
+    background-color: #fff;
+    height: 130px;
+    padding: 30px 5px;
+    border-radius: 15px;
+}
+.special-box img{
+    height: 100px;
+    width: 120px;
+    padding-right: 10px;
+}
