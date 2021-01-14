@@ -21,6 +21,12 @@ body{
     padding: 15px 20px;
     border-radius: 5px;
 }
+.all-button:hover{
+    background-color: #90AA29;
+    border: 0;
+    padding: 15px 20px;
+    border-radius: 5px;
+}
 
 .penguine-card-border{
     border: 0;
